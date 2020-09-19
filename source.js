@@ -1,0 +1,20 @@
+export const
+  POLO_BLUE_COLOR = "rgb(51,60,87)",
+  FOLLOW_COLOR = "rgb(71,113,246)",
+  SEND_MESSAGE_COLOR = "rgb(120,213,250)",
+  BLUR_TEXT_COLOR = "#ABB0C6",
+  imgData = [
+    { id: 1, imgSource: require("./assets/pic12.jpg") },
+    { id: 2, imgSource: require("./assets/pic2.jpg") },
+    { id: 3, imgSource: require("./assets/pic3.jpg") },
+    { id: 4, imgSource: require("./assets/pic4.jpg") },
+    { id: 5, imgSource: require("./assets/pic5.jpg") },
+    { id: 6, imgSource: require("./assets/pic6.jpg") },
+    { id: 7, imgSource: require("./assets/pic7.jpg") },
+    { id: 8, imgSource: require("./assets/pic8.jpg") },
+    { id: 9, imgSource: require("./assets/pic9.jpg") },
+    { id: 10, imgSource: require("./assets/pic10.jpg") },
+    { id: 11, imgSource: require("./assets/pic11.jpg") },
+    { id: 12, imgSource: require("./assets/pic12.jpg") },
+    { id: 13, imgSource: require("./assets/pic13.jpg") },
+  ];
